@@ -6,9 +6,9 @@ Atelier récap - Markdown, Terminal, Git et VSCode
 
 # Clara NOGUERA
 
-*Développeuse web junior, en formation "Développement Web et Accessibilité*
+*Développeuse web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil]() - [Projets](-) - [CV]() - [Contact]()
+[Accueil](./README.md) - [Projets](Projets.md) - [CV]() - [Contact]()
 
 ## Présentation
 
@@ -18,3 +18,6 @@ Atelier récap - Markdown, Terminal, Git et VSCode
 
 > Aliquam convallis sollicitudin purus. Praesent aliquam, enim at fermentum mollis, ligula massa adipiscing nisl, ac euismod nibh nisl eu lectus. Fusce vulputate sem at sapien. Vivamus leo. Aliquam euismod libero eu enim. Nulla nec felis sed leo placerat imperdiet. Aenean suscipit nulla in justo. Suspendisse cursus rutrum augue. Nulla tincidunt tincidunt mi. Curabitur iaculis, lorem vel rhoncus faucibus, felis magna fermentum augue, et ultricies lacus lorem varius purus. Curabitur eu amet. 
 
+## 
+
+© 2022 - Clara NOGUERA - [Me contacter]()
