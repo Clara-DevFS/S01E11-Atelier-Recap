@@ -4,7 +4,7 @@
 
 *Développeuse web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](./README.md) - [Projets](./Projets.md) - [CV](./CV) - [Contact](./Contact)
+[Accueil](./README.md) - [Projets](./Projets.md) - [CV](./CV.md) - [Contact](./Contact.md)
 
 ## Contact
 
